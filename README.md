@@ -1,8 +1,8 @@
 <h1 align="center"><b>Fraud Patterns and Their Impact in Canada</b></h1>
 
 ## Table of Contents
-+ Project Abstract
-+ Repository Description
++ Project abstract
++ Repository description
 + Acknowledgments
 
 ## Project Abstract
